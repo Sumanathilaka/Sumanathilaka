@@ -18,12 +18,17 @@ Professional Experience
 I am currently working as a lecturer at the Informatics Institute of Technology. In this role, I am actively involved in shaping the minds of the future generation of technologists while conducting cutting-edge research in my areas of expertise.
 
 Research Interests
+
 Machine Translation: Exploring techniques and algorithms to enable seamless and accurate translation between languages.
+
 Computer Linguistics: Investigating the application of computational methods to analyze and understand human language.
+
 Transliteration: Developing efficient algorithms and models to convert text from one script to another while preserving its meaning.
+
 Machine Learning: Applying machine learning algorithms to solve real-world problems and extract valuable insights from data.
+
 Bioinformatics: Leveraging computational methods to analyze biological data, unravel genetic patterns, and discover novel drug targets.
-Projects
+
 
 Publications
 
