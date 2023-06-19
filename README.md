@@ -1,5 +1,7 @@
 TG Deshan Koshala Sumanathilaka
+
 Lecturer | Researcher | Machine Learning Enthusiast
+
 Welcome to my GitHub profile! I am Deshan Koshala Sumanathilaka, a passionate researcher and lecturer specializing in Machine Translation, Computer Linguistics, Transliteration, Machine Learning, and Bioinformatics. I believe in the power of technology to solve complex problems and improve our lives.
 
 Education
