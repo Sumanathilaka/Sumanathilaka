@@ -2,9 +2,11 @@ TG Deshan Koshala Sumanathilaka
 
 Lecturer | Researcher | Machine Learning Enthusiast
 
+
 Welcome to my GitHub profile! I am Deshan Koshala Sumanathilaka, a passionate researcher and lecturer specializing in Machine Translation, Computer Linguistics, Transliteration, Machine Learning, and Bioinformatics. I believe in the power of technology to solve complex problems and improve our lives.
 
 Education
+
 Master of Science in University of Colombo (2023)
 Thesis:Swa Bhasha: Romanized Sinhala to Sinhala Reverse Transliteration using a Hybrid Approach
 
@@ -12,6 +14,7 @@ Bachelor of Technology in Computer Science and Engineering
 National Institute of Technology Calicut, India
 
 Professional Experience
+
 I am currently working as a lecturer at the Informatics Institute of Technology. In this role, I am actively involved in shaping the minds of the future generation of technologists while conducting cutting-edge research in my areas of expertise.
 
 Research Interests
