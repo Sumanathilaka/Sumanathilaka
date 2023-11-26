@@ -6,16 +6,17 @@ Lecturer | Researcher | Machine Learning Enthusiast
 Welcome to my GitHub profile! I am Deshan Koshala Sumanathilaka, a passionate researcher and lecturer specializing in Machine Translation, Computer Linguistics, Transliteration, Machine Learning, and Bioinformatics. I believe in the power of technology to solve complex problems and improve our lives.
 
 Education
+PhD(Reading), Swansea University, Wales, United Kingdom.
 
 Master of Science in University of Colombo (2023)
-Thesis:Swa Bhasha: Romanized Sinhala to Sinhala Reverse Transliteration using a Hybrid Approach
+Thesis: Swa Bhasha: Romanized Sinhala to Sinhala Reverse Transliteration Using a Hybrid Approach
 
 Bachelor of Technology in Computer Science and Engineering
 National Institute of Technology Calicut, India
 
 Professional Experience
 
-I am currently working as a lecturer at the Informatics Institute of Technology. In this role, I am actively involved in shaping the minds of the future generation of technologists while conducting cutting-edge research in my areas of expertise.
+I work as a Visiting lecturer at the Informatics Institute of Technology. In this role, I am actively involved in shaping the minds of future technologists while conducting cutting-edge research in my areas of expertise.
 
 Research Interests
 
@@ -50,6 +51,14 @@ Hybrid Approach, 03rd International Conference on Advanced Research in
 Computing - ICARC 2023, Department of Computing and Information Systems,
 Faculty of Applied Sciences, Sabaragamuwa University of Sri Lanka
 DOI: 10.1109/ICARC57651.2023.10145648
+
+● Deep Learning Based Framework for Reliable Sri Lankan Currency Authentication and Counterfeit Prevention
+IEEE 13th International Conference on System Engineering and Technology (ICSET 2023) held at Shah Alam, Malaysia. · Oct 2, 2023
+https://ieeexplore.ieee.org/abstract/document/10295117
+
+● TAMZi!: Shorthand Romanized Tamil to Tamil Reverse Transliteration Using Novel Hybrid Approach
+The University of Colombo organized the 23rd ICTER International Conference. · Nov 8, 2023
+
 
 ---------------------Abstract Publications---------------------------
 
