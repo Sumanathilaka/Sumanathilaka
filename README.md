@@ -41,6 +41,6 @@ I work as a Visiting lecturer at the Informatics Institute of Technology. In thi
 - Romanized Sinhala to Sinhala Transliteration using a Hybrid Approach International Conference on Innovations in Info-business & Technology (ICIIT2022), Informatics Institute of Technology, Colombo 006, Sri Lanka
 
 ### Get in Touch
-I am always excited to collaborate on research projects or discuss interesting ideas. Feel free to reach out to me via email at deshankoshala@gmail.com / deshan.s@iit.ac.lk or connect with me on [LinkedIn](https://www.linkedin.com/in/deshan-sumanathilaka/](https://www.linkedin.com/in/deshan-sumanathilaka-32473b170/).
+I am always excited to collaborate on research projects or discuss interesting ideas. Feel free to reach out to me via email at deshankoshala@gmail.com / deshan.s@iit.ac.lk or connect with me on ([LinkedIn](https://www.linkedin.com/in/deshan-sumanathilaka/](https://www.linkedin.com/in/deshan-sumanathilaka-32473b170/))
 
 Let's innovate, learn, and make a positive impact together!
